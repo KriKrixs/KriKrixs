@@ -1,7 +1,7 @@
 ## 😊 Bienvenue sur mon GitHub 
 
-#### 👨‍💻 Alternant Développeur WEB Full-Stack pour le datacenter [NEXEREN](https://nexeren.com) (groupe [XEFI](https://xefi.fr))
-#### 🎓 2ème année de Master ESI (Expert en Systèmes d'Informations) au sein de l'école [ISITECH](https://ecole-isitech.fr)
+#### 👨‍💻 Lead Développeur pour le datacenter [NEXEREN](https://nexeren.com) (groupe [XEFI](https://xefi.fr))
+#### 🎓 Diplomé d'un Master ESI (Expert en Systèmes d'Informations) au sein de l'école [ISITECH](https://ecole-isitech.fr)
 #### 🖥️ Fondateur, Chef de projet et développeur Front-End du projet [Walk Those Brackets!](https://wtb.omedan.com)
 #### 🏎️ Passioné de VR, Sport mécanique (F1, Karting, GT3) ainsi que de développement WEB
 
