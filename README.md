@@ -2,13 +2,13 @@
 
 #### 👨‍💻 Ingénieur consultant développeur web pour [Extia](https://www.extia-group.com/)
 #### 🎓 Diplomé d'un Master ESI (Expert en Systèmes d'Informations) au sein de l'école [ISITECH](https://ecole-isitech.fr)
-#### 🖥️ Fondateur, Chef de projet et développeur Front-End du projet [Walk Those Brackets!](https://wtb.omedan.com)
+#### 🖥️ Fondateur, Chef de projet et développeur Front-End du projet [RevSquad](https://revsquad.fr)
 #### 🏎️ Passioné de VR, Sport mécanique (F1, Karting, GT3) ainsi que de développement WEB
 
 ##
 ### 📬 Me contacter:
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kylian-barusseau-056791177/) 
-[![Mail](https://img.shields.io/badge/-MAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kylian.barusseau@omedan.com) 
+[![Mail](https://img.shields.io/badge/-MAIL-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kylian@barusseau.com) 
 [![Discord](https://img.shields.io/badge/-DISCORD-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/220151545486901248)
 
 ### 🌐 Mes réseaux:
